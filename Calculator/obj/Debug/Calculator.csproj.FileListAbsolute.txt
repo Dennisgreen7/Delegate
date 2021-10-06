@@ -1,0 +1,20 @@
+C:\Users\Dennis\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Dennis\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\Dennis\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Dennis\source\repos\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Dennis\source\repos\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Dennis\source\repos\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Dennis\source\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Dennis\source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\Dennis\source\repos\Calculator\obj\Debug\Calculator.pdb
+C:\Dot.Net\C# Advanced\Shior8\Calculator\bin\Debug\Calculator.exe.config
+C:\Dot.Net\C# Advanced\Shior8\Calculator\bin\Debug\Calculator.exe
+C:\Dot.Net\C# Advanced\Shior8\Calculator\bin\Debug\Calculator.pdb
+C:\Dot.Net\C# Advanced\Shior8\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior8\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Dot.Net\C# Advanced\Shior8\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Dot.Net\C# Advanced\Shior8\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Dot.Net\C# Advanced\Shior8\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior8\Calculator\obj\Debug\Calculator.exe
+C:\Dot.Net\C# Advanced\Shior8\Calculator\obj\Debug\Calculator.pdb
