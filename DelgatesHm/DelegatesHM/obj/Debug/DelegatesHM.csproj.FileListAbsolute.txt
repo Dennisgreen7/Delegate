@@ -1,7 +1,0 @@
-C:\Users\Dennis\source\repos\DelegatesHM\bin\Debug\DelegatesHM.exe.config
-C:\Users\Dennis\source\repos\DelegatesHM\bin\Debug\DelegatesHM.exe
-C:\Users\Dennis\source\repos\DelegatesHM\bin\Debug\DelegatesHM.pdb
-C:\Users\Dennis\source\repos\DelegatesHM\obj\Debug\DelegatesHM.csproj.AssemblyReference.cache
-C:\Users\Dennis\source\repos\DelegatesHM\obj\Debug\DelegatesHM.csproj.CoreCompileInputs.cache
-C:\Users\Dennis\source\repos\DelegatesHM\obj\Debug\DelegatesHM.exe
-C:\Users\Dennis\source\repos\DelegatesHM\obj\Debug\DelegatesHM.pdb
